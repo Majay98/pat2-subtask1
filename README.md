@@ -15,3 +15,12 @@
 -An explanation of how the Morse code system works, including the use of dots and dashes
 
 1.Morse code is a method of transmitting text, numbers, and symbols by representing them as standardized sequences of short signals (dots) and long signals (dashes).it maps characters to combinations of signals, where a dash equals three dots in duration, allowing communication via audio tones, light flashes, or electrical pulses
+
+SOS (Distress Signal): ... --- ...
+HI: .... ..
+HELLO: .... . .-.. .-.. ---
+HELP ME: .... . .-.. .--. / -- .
+YES: -.-- . ...
+NO: -. ---
+LOVE: .-.. --- ...- .
+GOODBYE: --. --- --- -.. -... -.-- .
